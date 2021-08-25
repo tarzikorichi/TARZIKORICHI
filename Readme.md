@@ -1,6 +1,6 @@
 ### Hi there, I'm **Korichi Tarzi**. ❤️ ✌️ [50lab][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://50lab.tech)
+[![Website](https://img.shields.io/badge/50lab-website-blue)](https://50lab.tech)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-this%20is%20my%20facebook%20account-green)](https://www.facebook.com/korichi.Tazi/)
 
 ## I'm a Developer, and Teacher!!
